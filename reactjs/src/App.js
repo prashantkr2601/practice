@@ -1,10 +1,9 @@
 import "./App.css";
-import Slider from "./components/practice/Sliders";
 
 function App() {
   return (
     <>
-      <Slider />
+      <h1>Hello </h1>
     </>
   );
 }

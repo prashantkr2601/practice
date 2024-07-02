@@ -1,9 +1,11 @@
+import React, { useState, useEffect } from "react";
 import "./App.css";
+import Test from "./components/Test";
 
 function App() {
   return (
     <>
-      <h1>Hello </h1>
+      <Test />
     </>
   );
 }
